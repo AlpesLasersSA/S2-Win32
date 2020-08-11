@@ -1,2 +1,2 @@
 # S2-Win32
-Windows GUI software for the S2 Pulser
+S2 Pulser GUI for Windows
